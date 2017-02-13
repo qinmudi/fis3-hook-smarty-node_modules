@@ -1,0 +1,19 @@
+{
+  "name": "fis3-hook-smarty-node_modules",
+  "version": "1.0.0",
+  "description": "针对smarty的node_modules的支持",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinmudi/fis3-hook-smarty-node_modules.git"
+  },
+  "author": "qinmudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinmudi/fis3-hook-smarty-node_modules/issues"
+  },
+  "homepage": "https://github.com/qinmudi/fis3-hook-smarty-node_modules#readme"
+}
